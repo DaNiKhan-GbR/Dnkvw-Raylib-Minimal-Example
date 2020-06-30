@@ -7,9 +7,9 @@ A minimal example that demonstrates the usage of Dnkvw with Raylib.
 This project uses CMake. Make sure you have at least version 3.15.
 To build it, use the following commands:
 ```console
-dani@khan:~$ mkdir build
-dani@khan:~$ cd build
-dani@khan:~$ cmake ..
+dani@khan:dnkvw-raylib-min$ mkdir build
+dani@khan:build$ cd build
+dani@khan:build$ cmake ..
 <CMAKE CONFIGURE OUTPUT HERE>
 ```
 
