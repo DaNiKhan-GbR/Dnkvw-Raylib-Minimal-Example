@@ -13,8 +13,7 @@ dani@khan:build$ cmake ..
 <CMAKE CONFIGURE OUTPUT HERE>
 ```
 
-The cmake configuration may take longer because it will automatically download raylib if you don't already have it installed.
-It also may fail if you don't have dnkvw installed. In that case look [here](https://github.com/DaNiKhan-GbR/DaNiKhan-V-Window#readme) for instructions.
+The cmake configuration may take longer because it will automatically download raylib and dnkvw if you don't already have it installed.
 If you installed dnkvw in a local directory you can specify the path in the dnkvw_DIR CMake variable.
 
 ## Running
